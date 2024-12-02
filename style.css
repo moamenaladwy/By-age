@@ -1,0 +1,32 @@
+/* تنسيق الجسم */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* تنسيق العنوان */
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* تنسيق الفقرة */
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* تنسيق قائمة السنوات */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    color: #333;
+    padding: 5px;
+}
+
